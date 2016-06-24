@@ -1,0 +1,111 @@
+body{
+	padding: 10px;
+	width: 100%;
+	overflow-x: hidden;
+}
+#content{
+	text-align: center;
+}
+
+.image-load{
+    background-color:rgba(0,0,0,.3);
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    position:absolute;
+}
+table{
+	width: auto;
+	margin: 20px;
+	overflow-y: scroll;
+	display: inline-block;
+    height:300px;
+}
+table td{
+	padding: 2px;
+	border-right: 1px solid black;
+    font-size:12px;
+
+}
+#lista-bd table tr{
+    line-height:15px;
+}
+table tr:nth-child(even){
+	background: #B0E0E5;
+}
+button{
+	margin:10px;
+}
+#lista-arrastrar ul{
+    height:200px;
+    overflow-y:scroll;
+    width:100%;
+}
+#buttons-check{
+    width:100%;
+}
+#lista-arrastrar ul li{
+    cursor:pointer;
+}
+ul li{
+    list-style: none;
+}
+.button-check{
+    width:20%;
+    height:40px;
+    border-radius:10px;
+    padding:8px;
+    margin-top:5px !important;
+    margin:0 auto;
+    display:inline-block;
+    background-color:cadetblue;
+}
+#dragAllChecked{
+    vertical-align:bottom;
+    height:23px;
+}
+#lista-clasificacion{
+    width:100%;
+}
+#lista-clasificacion ul li{
+    display:inline-block;
+}
+.droppable-list{
+	text-align: left;
+	font-size: 12px;
+	margin-top: 2px;
+	padding: 8px;
+	width:180px;
+	border-radius: 5px;
+    background-color: #00A14E;
+	z-index: -1;
+    max-height:15px;
+    margin-left:5px;
+    overflow:hidden;
+    padding:8px 2px 18px 13px;
+}
+.draggable-list{
+	text-align: center;
+	font-size: 12px;
+	background-color:rgba(224,224,224,0.8);
+	margin-top: 2px;
+	padding: 2px 2px 5px 10px;
+	width:300px;
+	border-radius: 5px;
+    cursor:pointer;
+    border: 2px solid #5F5F63;
+}
+ul li span{
+	float: right;
+	font-size: 12px;
+	color: white;
+	font-weight: bold;
+}
+input[type="checkbox"]{
+	vertical-align: middle;
+    float:left;
+    height:19px;
+    width:19px;
+}
+

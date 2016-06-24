@@ -1,0 +1,15 @@
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Release\Conexion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Release\Conexion.pdb
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.pdb
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.csprojResolveAssemblyReference.cache
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\Conexion\bin\Release\Conexion.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\Conexion\bin\Release\Conexion.pdb
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\Conexion\obj\Release\Conexion.csprojResolveAssemblyReference.cache
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\Conexion\obj\Release\Conexion.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\Conexion\obj\Release\Conexion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Release\Conexion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Release\Conexion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.csprojResolveAssemblyReference.cache
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.pdb

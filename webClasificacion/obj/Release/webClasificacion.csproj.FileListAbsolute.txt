@@ -1,0 +1,105 @@
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\ApplicationInsights.config
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\csc.exe
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\vbc.exe
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.dll.config
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.pdb
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Conexion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Conexion.pdb
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.csprojResolveAssemblyReference.cache
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.pdb
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\ApplicationInsights.config
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\csc.exe
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\System.Collections.Immutable.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\vbc.exe
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe.config
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\webClasificacion.dll.config
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\webClasificacion.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\webClasificacion.pdb
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Conexion.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Conexion.pdb
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.csprojResolveAssemblyReference.cache
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.dll
+F:\Miguel Angelbackup\Backup2\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\ApplicationInsights.config
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\csc.exe
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\vbc.exe
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.dll.config
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\webClasificacion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Conexion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Conexion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.Web.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.csprojResolveAssemblyReference.cache
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\webClasificacion\obj\Release\webClasificacion.pdb

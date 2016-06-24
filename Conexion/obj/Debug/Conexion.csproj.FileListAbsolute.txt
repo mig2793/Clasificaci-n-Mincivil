@@ -1,0 +1,5 @@
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Debug\Conexion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\bin\Debug\Conexion.pdb
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Debug\Conexion.dll
+C:\Users\mgonzalez\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Debug\Conexion.pdb
