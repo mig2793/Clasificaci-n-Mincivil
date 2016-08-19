@@ -22,6 +22,8 @@
                 <option value="2">Comienza con</option>
                 <option value="3">Termina con</option>
                 <option value="4">Buscar por clasificacion</option>
+                <!--<option value="5">No clasificadas</option>-->
+                <option value="6">Detalle productos</option>
             </select>
             <input type="text" placeholder="Buscar" id="input-search" name="input-search"/>
             <input type="text" placeholder="Segundo filtro(Opcional)" id="second-filter" name="second-filter"/>

@@ -111,7 +111,7 @@ $(document).ready(function () {
                     table += '<tr>'
                     table += '<td>' + Number(i+1) + '</td>'
                     table += '<td>'+ list[i].CodItem +'</td>'
-                    newCodItem = list[i].CodItem.replace(/\./g, "-");
+                    newCodItem = list[i].CodItem.replace(/\./g, "_");
                     table += '<td><span ><div id="' + newCodItem + '" class="draggable-list ' + newCodItem + '"><input type="checkbox" id="check_'+ i +'" value="' + i + '" />' + list[i].DescripcionItem + '</div></span></td>'
                     table += '<td>' + list[i].DescriptionPptal + '</td>'
                     table += '<td>' + list[i]._Clasifi + '</td>'
@@ -229,7 +229,7 @@ $(document).ready(function () {
     function ajaxUpdateCategorias(id, codItem) {
         showLoad();
         var clasificacion = Number(id);
-        codItem = codItem.replace(/-/gi, ".");
+        codItem = codItem.replace(/_/gi, ".");
         $.ajax({
             type: "POST",
             url: "serviceClasifi.asmx/UpdateClasification",
@@ -245,7 +245,7 @@ $(document).ready(function () {
 
         function OnSuccess(response) {
             console.log(response.d)
-            var codItemRemove = codItem.replace(/\./g, "-");
+            var codItemRemove = codItem.replace(/\./g, "_");
             if (response.d >= 1) {
                 $("." + codItemRemove).parent().parent().parent().remove();
             }

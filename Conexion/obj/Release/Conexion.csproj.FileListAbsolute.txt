@@ -13,3 +13,7 @@ C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionCla
 C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.csprojResolveAssemblyReference.cache
 C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.dll
 C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\SolutionClasifi\Conexion\obj\Release\Conexion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\Clasificacion\Conexion\bin\Release\Conexion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\Clasificacion\Conexion\bin\Release\Conexion.pdb
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\Clasificacion\Conexion\obj\Release\Conexion.dll
+C:\Users\mgonzalez.REDMINCIVIL\Documents\Visual Studio 2015\Projects\Clasificacion\Conexion\obj\Release\Conexion.pdb

@@ -75,6 +75,10 @@ namespace Conexion
             {
                 comando.CommandText = "select se.codigoItem, se.descripcionItem, se.descPartidaPptal, mg.Clasif FROM SeguimientoPMV2 se,MaestroXGrupos mg WHERE se.codigoItem = mg.CodigoItem AND(mg.CodigoItem = '')";
             }
+            else if (searchOption == 6)
+            {
+                comando.CommandText = "select se.codigoItem, se.descripcionItem, se.descPartidaPptal, mg.Clasif FROM DetalleProductoV2 se,MaestroXGrupos mg WHERE se.codigoItem = mg.CodigoItem AND (se.codigoItem LIKE '%" + condicion + "%' OR se.descripcionItem LIKE '%" + condicion + "%' OR se.descPartidaPptal LIKE '%" + condicion + "%')";
+            }
             return ConexionBD.EjecutarSelect(comando);
         }
         public DataTable SelectOptionalInput(string condicion,string inputOptional)
